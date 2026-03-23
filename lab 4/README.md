@@ -1,4 +1,4 @@
-#Lab4ML
+# Lab4ML
 In this lab I learned how to clean and prepare data for machine learning
 I worked with a real chocolate sales dataset 
 I fixed wrong data types, handled missing values using median and removed outliers using the IQR method 
