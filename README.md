@@ -1,0 +1,1 @@
+In this lab i learned who to use K Nwearest Neighbor and implement it on a database
